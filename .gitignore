@@ -1,0 +1,16 @@
+dataset/body_models/smpl/SMPL_NEUTRAL.pkl
+smplify.zip
+poses.npz
+_Backup
+dataset/output/registration
+dataset/output/task_1
+dataset/output/task_2
+dataset/spectral/minnesota_g.mat 
+dataset/spectral/*.mat
+dataset/spectral/*.off
+out_tpose.ply
+poses.tar.bz2
+test
+chumpy
+Functional-skeleton-transfer
+*.pptx
